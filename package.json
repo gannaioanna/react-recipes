@@ -1,5 +1,6 @@
 {
-  "name": "food-project",
+  "name": "recipes-project",
+  "homepage": "https://gannaioanna.github.io/react-recipes/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
